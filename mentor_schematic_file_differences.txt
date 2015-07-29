@@ -1,0 +1,46 @@
+Mentor Schematic Difference Viewing
+
+1.  Capture schematics to a JPG using Imageprinter or similar tool at the same
+    scaling.  It is best if these are BLACK and WHITE images.
+2.  Open JPGs as layers in a Paint.net Project
+3.  Set old image to lower layer
+4.  Set new image to upper layer
+5.  Adjust curves for new image to all green
+6.  Adjust curves for old image to all red
+7.  Invert colors colords in old image
+8.  Set blending method to XOR for both layers
+9.  The parts of image are as follows:
+    GREEN   NEW Portion
+    RED     OLD Portion
+    Blue    Where the New and Old Portions match
+10. To save image, flatten the DIFF'ed image
+
+Other methods :
+B&W just view differences not colored
+1.  Invert colors of one image
+2.  Make set blending method of each layer to XOR
+
+B&W poppy image
+1.  Make set blending method of each layer to XOR
+2.  Instead of Inverting the colors shift the output histogram darkside down
+    or lightside up.
+
+------------------------------------------------------------------------------
+Tools
+Paint.net (Free)
+http://www.getpaint.net/index.html
+
+ImagePrinter(Not Free, allows you to print to a image file)
+https://code-industry.net/imageprinter/
+
+Cutepdf Writer (Free, useful tool for print to PDF)
+http://www.cutepdf.com/Products/CutePDF/writer.asp
+
+PDFill FREE PDF Writer (Free, I’ve never used.  Allows print to images or pdf files)
+https://www.pdfill.com/freewriter_pdf.html
+------------------------------------------------------------------------------
+Other image/Gerber/Eagle differencing tools:
+https://www.raymond.cc/blog/how-to-compare-the-difference-between-two-identical-looking-images/
+https://github.com/fxkr/eagle-diff
+http://www.viewplot.com/info_files/vpl_faq/compare.html
+
