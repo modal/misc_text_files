@@ -20,9 +20,9 @@ Vendor Tools
 
 Verilog
 =======
-* Icarus Verilog
-* gtkWave
-* edaplayground online
+* Icarus Verilog (http://iverilog.icarus.com/ http://bleyer.org/icarus/)
+* gtkWave (http://gtkwave.sourceforge.net/ )
+* edaplayground online (http://www.edaplayground.com/)
 
 
 Layout Schematic Capture Spice
@@ -32,43 +32,43 @@ Layout Schematic Capture Spice
 * KiCAD
 * LTSPICE
 * Gerbv
-* Viewmate
+* GPL EDA Tools (http://www.gpleda.org/)
+* Viewmate (http://www.pentalogix.com/viewmate.php)
 
 Tools
 =====
-* GVIM
-* Emacs
-* Python 2x and 3x
+* GVIM (http://www.vim.org/)
+* Emacs (http://www.gnu.org/software/emacs/)
+* Python 2x and 3x (https://www.python.org/)
 * MSYS for Windows
 * Cygwin
 * Console2
-* Git
+* Git (https://msysgit.github.io/  latest  http://git-for-windows.github.io/)
+* Tortoise Git (https://code.google.com/p/tortoisegit/)
 * Git Extensions for Windows
-* git-web
-* Hg Mercurial
-* cutepdf
+* git-web (https://git-scm.com/book/en/v2/Git-on-the-Server-GitWeb)
+* Tortoise Hg Mercurial (http://tortoisehg.bitbucket.org/)
+* cutepdf (http://www.cutepdf.com/)
 * pdffill and imagewriter
 * ImagePrinter
-* XVI32
+* XVI32 (http://www.chmaas.handshake.de/delphi/freeware/xvi32/xvi32.htm)
 * Mirkes HEX Editor
-* WinMerge
+* WinMerge (http://winmerge.org/?lang=en)
 * KDiff
 * diff-ext KDIFF windows Explorer Integration (http://kdiff3.sourceforge.net/)
-* imgburn
-* Oracle Virtual Box
+* imgburn (http://www.imgburn.com/)
+* Oracle Virtual Box (https://www.virtualbox.org/wiki/Downloads)
 * cdburnerXP (USE imgburn instead)
 * Mingw Minimum GNU Tools for Windows
 * CCLeaner
-* 7zip
+* 7zip (http://www.7-zip.org/)
 * Dropbox
-* Paint.net
+* Paint.net (http://www.getpaint.net/)
 * nnite
 * ctags 5.8 patched to 5.8.1 or 5.8.2 (http://ctags.sourceforge.net/)
 * Putty
 * ContextConsole Sheel Extension Windows (http://code.kliu.org/cmdopen/)
 * Microsoft Office (Word, Excel, Powerpoint, and Visio)
-
-
 
 Fonts
 =====
