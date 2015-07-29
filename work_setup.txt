@@ -1,0 +1,18 @@
+
+
+Update Path variable for python, git, hg, and other binaries
+Create c:\projects folder
+Create c:\home folder
+create c:\home\vimfiles\bundle folder
+Remap Home to c:\home\    <<=$HOME
+map K: to schematic projects
+Setup c:\repo with git repositories
+hardlink vimrc from c:\repo
+map vim RTP Pathogen
+
+Printers
+\\usftw1print1\CFWLAS10 #2nd floor B&W
+\\usftw1print1\USFWPT18 #PND Color
+\\usftw1print1\USFWPT28 #DEFUNCT?
+\\usftw1print1\USFWPT48 #2nd floor Color
+
