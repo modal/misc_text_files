@@ -3,6 +3,7 @@ Mentor Schematic Difference Viewing
 Instructions
 1.  Capture schematics to a JPG using Imageprinter or similar tool at the same
     scaling.  It is best if these are BLACK and WHITE images.
+    Typically use A3 paper size in landscape orientation for best results
 2.  Open JPGs as layers in a Paint.net Project
 3.  Set old image to lower layer
 4.  Set new image to upper layer
