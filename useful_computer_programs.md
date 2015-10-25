@@ -89,9 +89,23 @@ Vim Stuff
 =========
 * Pathogen
 * nerdTree bookmarks
+* Fugitive
 * Fullscreen
 * yankring
 * MRU
 * BD Buffer Delete
 * snipmate
+* gundo Undotree
+* shell
+* easymotion
+* zoom
+
+Torrent Programs
+================
+* QTorrent (http://www.qbittorrent.org/)
+
+Web Downloaders
+===============
+* JDownloader2 (http://jdownloader.org/)
+
 
