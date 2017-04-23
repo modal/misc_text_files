@@ -18,8 +18,8 @@ Vendor Tools
 * Elprotronic Inc. FET-Pro430 FET MSP430 Flash Programmer
 * Keil uVision for ARM and 8051 microcontrollers
 
-Verilog
-=======
+Verilog VHDL
+============
 * Icarus Verilog (http://iverilog.icarus.com/ http://bleyer.org/icarus/)
 * gtkWave (http://gtkwave.sourceforge.net/ )
 * edaplayground online (http://www.edaplayground.com/)
@@ -29,8 +29,8 @@ Layout Schematic Capture Spice
 =======================
 * Mentor Graphics Design Viewer
 * EagleCAD
-* KiCAD
-* LTSPICE
+* KiCAD  (http://kicad-pcb.org/)
+* LTSPICE (http://www.linear.com/designtools/software/)
 * Gerbv
 * GPL EDA Tools (http://www.gpleda.org/)
 * Viewmate (http://www.pentalogix.com/viewmate.php)
@@ -69,11 +69,13 @@ Tools
 * Putty
 * ContextConsole Sheel Extension Windows (http://code.kliu.org/cmdopen/)
 * Microsoft Office (Word, Excel, Powerpoint, and Visio)
+* Sharex screen recording (https://getsharex.com/)
+* ScreenStudio screen recording (http://screenstudio.crombz.com/)
 
 Fonts
 =====
-* Mensch
-* Deja Vu Sans Mono
+* Mensch (https://robey.lag.net/2010/06/21/mensch-font.html)
+* Deja Vu Sans Mono (https://dejavu-fonts.github.io/)
 
 
 Python Tools and Modules
@@ -90,7 +92,7 @@ Vim Stuff
 * Pathogen
 * nerdTree bookmarks
 * Fugitive
-* Fullscreen
+* Fullscreen ==> shell.vim
 * yankring
 * MRU
 * BD Buffer Delete
