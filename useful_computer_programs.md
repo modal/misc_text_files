@@ -75,7 +75,11 @@ Tools
 * Microsoft Office (Word, Excel, Powerpoint, and Visio)
 * Sharex screen recording (https://getsharex.com/)
 * ScreenStudio screen recording (http://screenstudio.crombz.com/)
-* AES crypt https://www.aescrypt.com/
+* AES crypt (https://www.aescrypt.com/)
+* OpenShot Video Editor (https://www.openshot.org/)
+* Kdenlive (https://kdenlive.org/)
+
+
 Fonts
 =====
 * Mensch (https://robey.lag.net/2010/06/21/mensch-font.html)
