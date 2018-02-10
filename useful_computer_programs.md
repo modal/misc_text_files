@@ -23,7 +23,10 @@ Verilog VHDL
 * Icarus Verilog (http://iverilog.icarus.com/ http://bleyer.org/icarus/)
 * gtkWave (http://gtkwave.sourceforge.net/ )
 * edaplayground online (http://www.edaplayground.com/)
-
+* Synplify Pro
+* Cadance
+* VCS-MX
+* GHDL
 
 Layout Schematic Capture Spice
 =======================
@@ -65,13 +68,14 @@ Tools
 * Dropbox
 * Paint.net (http://www.getpaint.net/)
 * nnite
-* ctags 5.8 patched to 5.8.1 or 5.8.2 (http://ctags.sourceforge.net/)
+* ctags https://ctags.io  https://github.com/universal-ctags/ctags
+* [old] ctags 5.8 patched to 5.8.1 or 5.8.2 (http://ctags.sourceforge.net/)
 * Putty
 * ContextConsole Sheel Extension Windows (http://code.kliu.org/cmdopen/)
 * Microsoft Office (Word, Excel, Powerpoint, and Visio)
 * Sharex screen recording (https://getsharex.com/)
 * ScreenStudio screen recording (http://screenstudio.crombz.com/)
-
+* AES crypt https://www.aescrypt.com/
 Fonts
 =====
 * Mensch (https://robey.lag.net/2010/06/21/mensch-font.html)
@@ -91,6 +95,7 @@ Vim Stuff
 =========
 * Pathogen
 * nerdTree bookmarks
+* GitGutter
 * Fugitive
 * Fullscreen ==> shell.vim
 * yankring
