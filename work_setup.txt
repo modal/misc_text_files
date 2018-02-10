@@ -1,5 +1,8 @@
 
 
+
+This is an incomplete list of general setup I used at WFT.
+
 Update Path variable for python, git, hg, and other binaries
 Create c:\projects folder
 Create c:\home folder
