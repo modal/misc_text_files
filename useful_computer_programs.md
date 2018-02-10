@@ -78,6 +78,11 @@ Tools
 * AES crypt (https://www.aescrypt.com/)
 * OpenShot Video Editor (https://www.openshot.org/)
 * Kdenlive (https://kdenlive.org/)
+* Teracopy
+* IFunbox
+* Etcher
+* Etcher
+* 
 
 
 Fonts
