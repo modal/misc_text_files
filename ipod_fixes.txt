@@ -1,0 +1,21 @@
+# 4th Generation Special Modes and Reset
+##############################################################################
+DIAGNOSTICS mode
+
+It is possible that your iPod's hard drive has started to fail. Take your iPod and place your right thumb on the centre SELECT button and your left on the top MENU button. Press down both thumbs for about 6 seconds until your iPod reboots. Immediately move your left thumb around to the rewind button |<< on the left and hold this down together with SELECT for a further 6 seconds. 
+
+https://discussions.apple.com/docs/DOC-10101
+##############################################################################
+DISK mode
+IPOD locks up ITUNES and doesn't show up.
+hold center button + Play/Pause for several seconds
+
+https://mp3.wonderhowto.com/how-to/reset-and-restore-ipod-nano-remedy-freezing-304994/
+
+##############################################################################
+Reset IPOD
+1. Toggle the Hold switch on and off (set it to Hold, and then turn it off again)
+2. Press and hold the Center and Menu buttons for at least 6 seconds, until the Apple logo appear
+
+https://kb.wisc.edu/page.php?id=11970
+##############################################################################
