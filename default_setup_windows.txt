@@ -1,0 +1,40 @@
+
+Programs
+========
+ADobe PDF
+VIM
+FreeFileSync
+Audacity (Use FORK!)
+iChrome
+WindDirStat
+PolarFlow
+FireFox
+IPVanish
+7zip
+Git
+DropBox
+GoogleDrive
+DVD Decryptor
+CDBurnerXP
+Calibre
+QBittorrent
+Teracopy
+Itunes
+VLC
+
+Files
+=====
+Bookmarks & list.txt
+
+
+Plugin & Scripts
+=======
+NoScript
+Multi-File Downloader https://chromewebstore.google.com/detail/multi-file-downloader/dpecplbkinpdbedgejddhepkgcppgchk?pli=1
+Videospeed HTML5 video speed controller chrome https://github.com/igrigorik/videospeed
+YIFY YTS ABB
+
+Settings
+========
+Set user system ariables HOME and DESKTOP
+
